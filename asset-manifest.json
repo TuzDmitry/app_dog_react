@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app_dog_react/static/css/main.fd4fc1e1.chunk.css",
+    "main.js": "/app_dog_react/static/js/main.e36deb39.chunk.js",
+    "main.js.map": "/app_dog_react/static/js/main.e36deb39.chunk.js.map",
+    "runtime-main.js": "/app_dog_react/static/js/runtime-main.df49bff8.js",
+    "runtime-main.js.map": "/app_dog_react/static/js/runtime-main.df49bff8.js.map",
+    "static/js/2.eeb4a395.chunk.js": "/app_dog_react/static/js/2.eeb4a395.chunk.js",
+    "static/js/2.eeb4a395.chunk.js.map": "/app_dog_react/static/js/2.eeb4a395.chunk.js.map",
+    "index.html": "/app_dog_react/index.html",
+    "precache-manifest.ed9dd6167d403ff1d8aae2888dccf085.js": "/app_dog_react/precache-manifest.ed9dd6167d403ff1d8aae2888dccf085.js",
+    "service-worker.js": "/app_dog_react/service-worker.js",
+    "static/css/main.fd4fc1e1.chunk.css.map": "/app_dog_react/static/css/main.fd4fc1e1.chunk.css.map",
+    "static/js/2.eeb4a395.chunk.js.LICENSE.txt": "/app_dog_react/static/js/2.eeb4a395.chunk.js.LICENSE.txt",
+    "static/media/dog.mp3": "/app_dog_react/static/media/dog.75fa68d4.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df49bff8.js",
+    "static/js/2.eeb4a395.chunk.js",
+    "static/css/main.fd4fc1e1.chunk.css",
+    "static/js/main.e36deb39.chunk.js"
+  ]
+}
