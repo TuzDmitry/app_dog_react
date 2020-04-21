@@ -1,0 +1,7 @@
+.counter {
+    font-size: 30px;
+    width: 180px;
+    text-align: center;
+    background-color: rgba(183, 54, 238, 0.79);
+    border: 2px solid;
+}
